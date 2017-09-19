@@ -131,7 +131,7 @@ az acr login -n <registry name>
 Change both image tags to point to the registry
 ```
 docker tag colorapp:latest <registry name>.azurecr.io/colorapp:latest
-docker tag colormicroservice:latest <registry name>.azurecr.io/colorappmicroservice:latest
+docker tag colormicroservice:latest <registry name>.azurecr.io/colormicroservice:latest
 ```
 
 Publish your images to the registry
