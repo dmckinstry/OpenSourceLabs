@@ -80,7 +80,6 @@ Essentially, the **colorapp** does AJAX requests to the **colormicroservice** an
     ```
     az configure --defaults group=<rg name>
     ```
-- You should also **Fork** this repository as one of the steps would involve you modifying the source code and committing it to trigger the CI/CD pipeline.
  
 ### Topics Covered
 
