@@ -55,6 +55,7 @@ Essentially, the **colorapp** does AJAX requests to the **colormicroservice** an
 - Azure CLI installed and configured with your Azure subscription
     
     On Windows, download and install from: https://aka.ms/InstallAzureCliWindows 
+    
     On a Mac, run the below command in Terminal
     ```
     curl -L https://aka.ms/InstallAzureCli | bash
