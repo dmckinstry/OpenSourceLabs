@@ -73,7 +73,7 @@ Essentially, the **colorapp** does AJAX requests to the **colormicroservice** an
 
     Create the Resource Group to use throughout the lab:
     ```
-    az group create -n <rg name> -l westeurope 
+    az group create -n <rg name> -l <region> 
     ```
 
     Set the default Resource Group for your session, to avoid typing it in all commands
