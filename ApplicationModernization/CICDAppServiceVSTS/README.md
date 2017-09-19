@@ -113,7 +113,7 @@ Run using Docker Compose
 docker-compose up
 ```
 
-Browse to http://localhost/
+Browse to http://localhost:8888/
 ![Colors of the cluster app running locally](media/colorapplocal.png)
 
 ### Pushing Docker images to Azure Container Registry
